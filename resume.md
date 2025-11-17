@@ -20,6 +20,8 @@ Appalachian State University
 * RStudio 
 * Microsoft Excel 
 ### Recent Employment History 
+*[AppalCART](https://www.appalcart.com/)(2025-Present)
 * [The Cardinal, Boone NC](https://thecardinalboone.com/)(2022-Present)
 * [Cajun Queen, Charlotte NC](https://cajunqueen.com/)(2021-2022)
 * [Firebird's Wood Fired Steakhouse, Charlotte, NC](https://firebirdsrestaurants.com/)(2020-2021)
+
